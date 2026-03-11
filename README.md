@@ -21,9 +21,9 @@ The failure details are then published to an SNS topic which delivers an email a
 ![logic](logic.png)
 ![ErrorHandeling](ErrorHandeling.png)
 
-![Checking website vailibility function](website_availibility_function.png)
+![Processing SQS failure messages](SQS_processing1.png)
 
-![Sending_failure_details to _SQS](SQS_processing.png)
+![Processing SQS failure messages](SQS_processing.png)
 
 ![Publishing an alert to SNS](SNS.png)
 
