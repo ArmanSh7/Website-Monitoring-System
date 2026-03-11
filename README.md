@@ -13,6 +13,14 @@ The failure details are then published to an SNS topic which delivers an email a
 ![Diagram](diagram.png)
 
 # Code
+
+# Environment variables
+![EnvironmentVariable](EnvironmentVariable.png)
+
+# Logic and Error handling
+![logic](logic.png)
+![ErrorHandeling](ErrorHandeling.png)
+
 ![Checking website vailibility function](website_availibility_function.png)
 
 ![Sending_failure_details to _SQS](SQS_processing.png)
