@@ -21,6 +21,7 @@ The failure details are then published to an SNS topic which delivers an email a
 ![logic](logic.png)
 ![ErrorHandeling](ErrorHandeling.png)
 
+# Processing the messages in SQS
 ![Processing SQS failure messages](SQS_processing1.png)
 
 ![Processing SQS failure messages](SQS_processing.png)
