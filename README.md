@@ -4,3 +4,6 @@ This project implements a fully automated, serverless website monitoring system 
 
 # Technologies used
 Python, AWS Lambda, Amazon SQS, Amazon SNS, Amazon EventBridge, IAM, CloudWatch, boto3
+
+# Architecture Diagram
+![Diagram](diagram.png)
