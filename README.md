@@ -6,9 +6,10 @@ This project implements a fully automated, serverless website monitoring system 
 Python, AWS Lambda, Amazon SQS, Amazon SNS, Amazon EventBridge, IAM, CloudWatch, boto3
 
 # Architecture Diagram
-EventBridge triggers the WebsiteChecker Lambda function every X minutes. 
+EventBridge triggers the WebsiteChecker Lambda function every X minutes.n/ 
 On failure, a message is sent to an SQS queue which automatically triggers the FailureProcessor Lambda function. 
 The failure details are then published to an SNS topic which delivers an email alert to all subscribers.
+
 ![Diagram](diagram.png)
 
 # Code
