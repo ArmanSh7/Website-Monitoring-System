@@ -7,3 +7,8 @@ Python, AWS Lambda, Amazon SQS, Amazon SNS, Amazon EventBridge, IAM, CloudWatch,
 
 # Architecture Diagram
 ![Diagram](diagram.png)
+
+# Code
+![Checking website vailibility function](website_availibility_function.png)
+
+![Sending_failure_details to _SQS](SQS_processing.png)
