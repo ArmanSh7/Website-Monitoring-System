@@ -28,6 +28,7 @@ The failure details are then published to an SNS topic which delivers an email a
 
 ![Publishing an alert to SNS](SNS.png)
 
+# Email Formatting
 ![Formatting alert message](format_alert.png)
 
 # Results
