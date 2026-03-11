@@ -17,5 +17,5 @@ Python, AWS Lambda, Amazon SQS, Amazon SNS, Amazon EventBridge, IAM, CloudWatch,
 
 ![Formatting alert message](format_alert.png)
 
- #Results
+# Results
 ![Email](result.png)
