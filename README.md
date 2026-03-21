@@ -1,6 +1,7 @@
 # Website Monitoring System
-Website downtime costs businesses thousands of dollars per minute. 
-This project implements a fully automated, serverless website monitoring system on AWS that detects failures in under 5 minutes, configurable to as low as 1 minute, and immediately alerts stakeholders, ensuring teams can respond before losses escalate
+Website being down can cost businesses thousands of dollars per minute. This project is an automated serverless website monitoring system on AWS that detects failures every X minutes(depending on the need), and immediately alerts stakeholders to ensure teams can respond before losses escalate
+
+
 
 # Technologies used
 Python 3.12, AWS Lambda, Amazon SQS, Amazon SNS, Amazon EventBridge, IAM, CloudWatch, boto3
